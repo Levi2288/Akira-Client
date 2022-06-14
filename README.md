@@ -13,7 +13,7 @@ What are we looking for
 
 - java dev
 - C++ dev 
-- and maybe a website developer ?questionmark
+- and maybe a website developer ? questionmark i want to make a good website / login thing but i dont have the time to learn that too
 
 do u get paid if you join us?
 
