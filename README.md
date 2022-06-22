@@ -3,7 +3,7 @@ minecraft ghost client
 
 made for Forge, badilion, vanilla
 
-https://discord.gg/dQsdfMTejK | (Hungarian dc)
+https://discord.gg/dQsdfMTejK
 
 58854 lines written so far :D
 
