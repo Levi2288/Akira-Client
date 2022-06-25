@@ -1,4 +1,4 @@
-# Akira
+# Akira Early Access
 minecraft ghost client
 
 made for Forge, badilion, vanilla
