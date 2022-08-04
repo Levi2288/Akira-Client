@@ -11,4 +11,4 @@ Looking for website dev hmu on discord
 
 
 
-<3 this project pls
+Star the project pls 
