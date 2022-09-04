@@ -1,7 +1,7 @@
 # Akira Memory CLient
 
 Minecraft memory ghost client
-Made for Forge, Badilion, Vanilla, Lunar,
+made for Forge, Badilion, Vanilla, Lunar,
 
 https://discord.gg/dQsdfMTejK
 
