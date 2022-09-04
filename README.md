@@ -1,5 +1,7 @@
 # Akira Memory CLient
 
+### This Project Is Not Open Source!!!
+
 Minecraft memory ghost client
 made for Forge, Badilion, Vanilla, Lunar,
 
