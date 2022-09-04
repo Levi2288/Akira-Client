@@ -1,7 +1,7 @@
-# Akira Early Access
-minecraft ghost client
+# Akira Memory CLient
 
-made for Forge, Badilion, Vanilla, Lunar,
+Minecraft memory ghost client
+Made for Forge, Badilion, Vanilla, Lunar,
 
 https://discord.gg/dQsdfMTejK
 
@@ -11,4 +11,4 @@ Looking for website dev hmu on discord
 
 
 
-Star the project pls 
+:star: Star the project pls 
