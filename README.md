@@ -1,4 +1,4 @@
-# Akira Memory CLient
+# Akira Memory Client
 
 ### This Project Is Not Open Source!!!
 
