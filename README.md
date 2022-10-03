@@ -5,7 +5,7 @@
 Minecraft memory ghost client
 made for Forge, Badilion, Vanilla, Lunar,
 
-https://discord.gg/dQsdfMTejK
+https://dsc.gg/akiraclient
 
 58854 lines written so far :D
 
