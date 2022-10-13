@@ -7,7 +7,7 @@ made for Forge, Badilion, Vanilla, Lunar,
 
 https://dsc.gg/akiraclient
 
-58854 lines written so far :D
+9,527 lines written so far by me :D
 
 Looking for website dev hmu on discord
 
