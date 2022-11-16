@@ -7,7 +7,7 @@ made for Forge, Badilion, Vanilla, Lunar,
 
 https://akiraghost.com
 
-10.000 lines written so far :D
+10.000+ lines written so far :D
 
 
 :star: Star the project pls 
