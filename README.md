@@ -4,9 +4,15 @@
 
 Supports - Forge, Badilion, Vanilla, Lunar, Feather and more...
 
+-----------------------------------------------
+
 Website - https://akiraghost.com
+
 Discord - https://discord.gg/PEgKZFGMaA
+
 Patreon - https://www.patreon.com/AkiraClient
+
+-----------------------------------------------
 
 10.000+ lines written so far :D
 
