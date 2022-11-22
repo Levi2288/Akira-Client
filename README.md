@@ -4,6 +4,8 @@
 
 Supports - Forge, Badilion, Vanilla, Lunar, Feather and more...
 
+**Selling Akira Client is forbidden!!! **
+
 -----------------------------------------------
 
 Website - https://akiraghost.com
