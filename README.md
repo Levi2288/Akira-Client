@@ -4,7 +4,7 @@
 
 Supports - Forge, Badilion, Vanilla, Lunar, Feather and more...
 
-**Selling Akira Client is forbidden!!! **
+#### Selling Akira Client is forbidden!!! 
 
 -----------------------------------------------
 
