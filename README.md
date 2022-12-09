@@ -8,6 +8,8 @@ Supports - Forge, Badilion, Vanilla, Lunar, Feather and more...
 
 -----------------------------------------------
 
+We are doing a big XMas giveaway on our discord server so join up!
+
 Website - https://akiraghost.com
 
 Discord - https://discord.gg/PEgKZFGMaA
