@@ -22,4 +22,7 @@ Patreon - https://www.patreon.com/AkiraClient
 
 :star: Star the project pls 
 
-**1.0.8 coming soon**
+
+###Akira Is now approved by Microsoft Defender
+
+![Akira](https://github.com/Levi2288/Akira-Client/blob/main/pictures/approved_by_microsoft.png)
