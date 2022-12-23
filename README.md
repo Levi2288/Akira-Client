@@ -17,11 +17,15 @@
 </div>
 
 ## ℹ️ Information
+
+**[Available Modules](https://github.com/Levi2288/Akira-Client/blob/main/Functions.md#akira-functions)**
+
 ⭐ **Star this repository please!**
 
 :book: **10.000+ lines written so far :D**
-🏆 **Supports**
 
+
+🏆 **Supported Client List**
 1. [`Forge`](https://files.minecraftforge.net/net/minecraftforge/forge/)
 1. [`Badilion`](https://www.badlion.net/)
 1. [`Vanilla`](https://www.minecraft.net/en-us)
