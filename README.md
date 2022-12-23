@@ -5,7 +5,7 @@
   </kbd>
   <h3>Achieved with pure memory hacking</h3>
   <img alt="Minecraft" src="https://img.shields.io/badge/Minecraft-1.7.10--1.12.2-yellowgreen">
-  <img alt="GitHub release" src="https://img.shields.io/github/v/release/Levi2288/Akira-Client?color=bd2c22?style=flat-square>
+  <img alt="GitHub release" src="https://img.shields.io/github/v/release/Levi2288/Akira-Client?style=flat-square>
   <img alt="GitHub downloads" src="https://img.shields.io/github/downloads/Zgoly/Meteorist/total?color=9e81ff&logo=github&style=flat-square">
   <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Levi2288/Akira-Client?label=%E2%AD%90%20stars&color=5f99ff&style=flat-square">
   <img alt="GitHub Repo stars" src="https://img.shields.io/github/last-commit/Levi2288/Akira-Client?style=flat-square">
