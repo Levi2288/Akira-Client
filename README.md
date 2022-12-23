@@ -58,7 +58,7 @@ This Project Is Not Open Source but, its Free!
 1. [Avast Approval](https://media.discordapp.net/attachments/985108702518460416/1055584219885224046/image.png?width=1002&height=248)
 
 `2. Why is it free?`
-- I dont know :sunglasses: i feel like it
+- Because i hate myself :sunglasses: :sob:
 
 `3. How do you make money?`
 - The only income i have from Akira right now is [Patreon](https://www.patreon.com/AkiraClient). Feel free to donate 1$ or so :D
