@@ -9,6 +9,7 @@
   <img alt="GitHub downloads" src="https://img.shields.io/github/downloads/Zgoly/Meteorist/total?color=9e81ff&logo=github&style=flat-square">
   <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Levi2288/Akira-Client?label=%E2%AD%90%20stars&color=5f99ff&style=flat-square">
   <img alt="GitHub Repo stars" src="https://img.shields.io/github/last-commit/Levi2288/Akira-Client?style=flat-square">
+  <img alt="Code XD" src="https://camo.githubusercontent.com/1a99d98e8074c43ffa85a5bddf29694cf4d9953c5e84c6b4237607bb5fe1afdf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f737061676865747469253230636f64652d7965732d737563636573733f6c6f676f3d6a617661">
   
 </div>
 
