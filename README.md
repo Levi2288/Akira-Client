@@ -48,7 +48,7 @@ This Project Is Not Open Source but, its Free!
 ## :mag_right: FAQ
 
 `1. Is Akira a Virus?`
-- No, Akira will be sent to multiple AntiVirus Proveders each update to prove you guys its not a Virus and get it approved. 
+- No, Akira will be sent to multiple AntiVirus providers each update to prove you guys its not a Virus and get it approved. 
 
 1. [Microsoft Approval](https://github.com/Levi2288/Akira-Client/blob/main/pictures/approved_by_microsoft.png)
 1. [Avast Approval](https://media.discordapp.net/attachments/985108702518460416/1055584219885224046/image.png?width=1002&height=248)
