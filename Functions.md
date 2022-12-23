@@ -1,3 +1,5 @@
+# Akira Functions
+
 ## 🧩 Combat
 1. `Left Clicker` - AutoClicks for you
 1. `Right Clicker` - Auto Right Clicks for you
