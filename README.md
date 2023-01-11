@@ -57,6 +57,7 @@ This Project Is Not Open Source but, its Free!
 
 1. [Microsoft Approval](https://github.com/Levi2288/Akira-Client/blob/main/pictures/approved_by_microsoft.png)
 1. [Avast Approval](https://media.discordapp.net/attachments/985108702518460416/1055584219885224046/image.png?width=1002&height=248)
+1. [AVG](https://github.com/Levi2288/Akira-Client/blob/main/pictures/avg.jpg)
 
 `2. Why is it free?`
 - Because i hate myself :sunglasses: :sob:
