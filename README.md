@@ -32,6 +32,8 @@
 1. [`Vanilla`](https://www.minecraft.net/en-us)
 1. [`Lunar`](https://www.lunarclient.com/)
 1. [`Feather`](https://feathermc.com/)
+1. [`Salwyrr`](https://www.salwyrr.com/)
+1. [`LabyMod`](https://www.labymod.net/en)
 1. and more...
 
 This Project Is Not Open Source but, its Free!
