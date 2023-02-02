@@ -20,6 +20,8 @@
 1. `Fly/Glide` - Make your player float in air.
 1. `AutoSprint` - Sprints for you when u press W.
 1. `Megajump` - Make your player jump higher.
+1. `AutoSprint` - Sprints for you.
+1. `AntiAFK` - AntiAFK lol.
 
 ## :eyes: Visuals
 1. `NameESP` - ESP using nametags.
@@ -40,3 +42,5 @@
 1. `Colors & GUI Animations` - Beatifull GUI that you can costumize to your liking.
 1. `Function Toggle Sounds` - Plays Sound on function toggle so you can always know if you enabled or disabled a function.
 1. `Configs` - Configs For both cheat settings and recorded clicks.
+
+And more...
