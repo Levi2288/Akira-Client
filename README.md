@@ -23,7 +23,7 @@
 
 ⭐ **Star this repository please!**
 
-:book: **10.000+ lines written so far :D**
+:book: **13.000+ lines written so far :D**
 
 
 🏆 **Supported Client List**
