@@ -35,6 +35,7 @@
 1. [`Salwyrr`](https://www.salwyrr.com/)
 1. [`LabyMod`](https://www.labymod.net/en)
 1. [`Cosmic Client`](https://cosmicclient.com/)
+1. [`Cosmic Client`](https://orbitclient.com/) 
 1. and more... (Not every feature is supported on every client)
 
 This Project Is Not Open Source but, its Free!
