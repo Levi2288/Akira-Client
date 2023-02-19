@@ -36,6 +36,9 @@
 1. [`LabyMod`](https://www.labymod.net/en)
 1. [`Cosmic`](https://cosmicclient.com/)
 1. [`Orbit`](https://orbitclient.com/) 
+1. [`Skluncher`](https://skmedix.pl/) 
+1. [`BatMod`](https://batmod.com/) 
+1. [`CMClient`](https://cm-pack.pl/) 
 1. and more... (Not every feature is supported on every client)
 
 This Project Is Not Open Source but, its Free!
