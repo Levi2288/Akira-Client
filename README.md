@@ -41,20 +41,9 @@
 1. [`CMClient`](https://cm-pack.pl/) 
 1. and more... (Not every feature is supported on every client)
 
-This Project Is Not Open Source but, its Free!
+This Project Is Not Open Source and it has become paid!
 
 
-## :question: How to use
-
-- Download the latest [release](/../../releases) of the client from the releases tab.
-- Start the client.
-- Log in with the account you made on [Akira Ghost](https://akiraghost.com/).
-- Start any minecraft version between 1.7.10-1.12.2.
-- Have fun :D.
-
-## :money_with_wings: Support
-
-1. Patreon - https://www.patreon.com/AkiraClient
 
 
 ## :mag_right: FAQ
@@ -66,13 +55,6 @@ This Project Is Not Open Source but, its Free!
 1. [Avast Approval](https://media.discordapp.net/attachments/985108702518460416/1055584219885224046/image.png?width=1002&height=248)
 1. [AVG](https://github.com/Levi2288/Akira-Client/blob/main/pictures/avg.jpg)
 1. [AlphaMountain](https://github.com/Levi2288/Akira-Client/blob/main/pictures/alphamountain.jpg)
-
-
-`2. Why is it free?`
-- Because i hate myself :sunglasses: :sob:
-
-`3. How do you make money?`
-- The only income i have from Akira right now is [Patreon](https://www.patreon.com/AkiraClient). Feel free to donate 1$ or so :D
 
 `4. Can i help in something?`
 - We always have some things we need help in, the list can be found in our [Discord](https://discord.gg/PEgKZFGMaA)
